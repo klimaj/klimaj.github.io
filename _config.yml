@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Jason C. Klima"
-  avatar           : "klimaj.github.io/files/Klima-20150327-073_6136-1024x982-1024x982.jpg"
+  avatar           : "files/Klima-20150327-073_6136-1024x982-1024x982.jpg"
   bio              : "Biochemist, Computational Protein Designer, Data Science Enthusiast"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "University of Washington"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
