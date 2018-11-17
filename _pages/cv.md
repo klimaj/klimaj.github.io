@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry and Biochemistry, College of Creative Studies, University of California, Santa Barbara, 2011
+* Ph.D. in Biochemistry & Nanotechnology and Molecular Engineering, University of Washington, Seattle, 2019 (expected)
 
 Work experience
 ======
