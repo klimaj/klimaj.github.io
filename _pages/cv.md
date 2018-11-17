@@ -16,17 +16,27 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2014 - Current: Graduate Research Assistant
+  * Institute for Protein Design, University of Washington, Seattle, WA
+  * Research: Computational protein design of small-molecule fluorescent biosensors
+  * Supervisors: Drs. David Baker and James B. Hurley
   
-Skills
+* Winter 2014 - Spring 2014: Graduate Research Assistant
+  * Department of Biochemistry, University of Washington, Seattle, WA
+  * Research: Characterization of mammalian mitochondrial fission and fusion
+  * Supervisor: Dr. Suzanne Hoppins
+
+* Autumn 2014 - Winter 2014: Graduate Research Assistant
+  * Department of Biochemistry, University of Washington, Seattle, WA
+  * Research: Design of aspartate fluorescent biosensors for studying mammalian retina metabolism
+  * Supervisor: Drs. James B. Hurley and Susan Brockerhoff
+
+* Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
+  * National Institues of Health, Bethesda, MD
+  * Research: Transformation of mammalian mitochondrial DNA for stuyding structure-function relationships
+  * Supervisor: Dr. Hong Xu
+  
+Skills (Under Construction!)
 ======
 * Skill 1
 * Skill 2
@@ -35,24 +45,24 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publications (Under Construction!)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks (Under Construction!)
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching (Under Construction!)
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and leadership (Under Construction!)
 ======
 * Currently signed in to 43 different slack teams
