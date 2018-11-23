@@ -95,7 +95,10 @@ Skills (Under Construction!)
 
 Publications (Under Construction!)
 ======
-  <ul>{% for post in site.publications %}
+*  Jin, K., <b>Klima, J. C.</b>, Deane, G., Dale Stokes, M., Latz, M. I., 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate Lingulodinium polyedrum: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
+ 
+  <ul>
+  {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
