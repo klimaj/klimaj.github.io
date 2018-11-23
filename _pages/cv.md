@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Chemistry and Biochemistry, College of Creative Studies, University of California, Santa Barbara, 2011
+  * Minor in Music, College of Letters and Sciences, University of California, Santa Barbara, 2011
 * Ph.D. in Biochemistry & Nanotechnology and Molecular Engineering, University of Washington, Seattle, 2019 (expected)
 
 Work experience
