@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Spring 2014 - Current: Graduate Research Assistant
+* Spring 2014 - current: Graduate Research Assistant
   * Institute for Protein Design, University of Washington, Seattle, WA
   * Research: Computational protein design of small-molecule fluorescent biosensors
   * Supervisors: Drs. David Baker and James B. Hurley
@@ -34,7 +34,38 @@ Work experience
 * Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
   * National Institues of Health, Bethesda, MD
   * Research: Transformation of mammalian mitochondrial DNA for stuyding structure-function relationships
+  * Research: Characterizing a temperature-sensitive mitochondrial DNA mutant D. melanogaster model
   * Supervisor: Dr. Hong Xu
+  
+* Summer 2010 - Autumn 2010: Laboratory Assistant
+  * University of California, San Diego, Skaggs School of Pharmacy and Pharmaceutical Sciences
+  * Research: Collecting live mouse tissue samples, genotyping transgenic/knockout mice, DNA extraction from human blood, DNA microchipping, and SNP detection by mass spectrometry
+  * Supervisor: Dr. Kang Zhang
+
+* Summer 2009 - Autumn 2009, & Summer 2010 - Autumn 2010: Research Assistant
+  * University of California, San Diego, Scripps Institution of Oceanography
+  * Research: Characterizing the signal transduction pathway of spontaneous bioluminescence in dinoflagellate cells using pharmacological agonists/antagonists for receptors implicated in luminescence.
+  * Supervisor: Dr. Michael Latz
+  
+* Summer 2009 - Autumn 2009: Computer Technician
+  * University of California, San Diego, Salk Institute for Biological Studies
+  * Research: Designing and maintaining the laboratory website, and gaining experience with the scientific grant submission process.
+  * Supervisor: Dr. Ursula Bellugi
+  
+* Autumn 2008 - Winter 2008: Laboratory Assistant
+  * University of California, Santa Barbara, Department of Chemistry and Biochemistry
+  * Research: Performing UV/Vis spectroscopy and high-performance liquid chromatography to isolate siderophores from marine bacteria.
+  * Supervisor: Dr. Allison Butler
+
+* Summer 2008 - Autumn 2008: Marine Physical Laboratory Summer Internship
+  * University of California, San Diego, Scripps Institution of Oceanography
+  * Research: Characterizing the signal transduction pathway of spontaneous bioluminescence in dinoflagellate cells
+  * Supervisor: Dr. Grant Deane
+  
+* Autumn 2008 - Winter 2008: Laboratory Assistant, Muscle Tissue Core
+  * Veterans Medical Research Foundation, La Jolla, CA
+  * Research: Gaining experience with Coulter counting, gel electrophoresis, glucose assays, and western blot development using radiolabeled peptides, performing radiation tests, and making buffers.
+  * Supervisor: Drs. Susan Phillips and Theodore P. Ciaraldi
   
 Skills (Under Construction!)
 ======
