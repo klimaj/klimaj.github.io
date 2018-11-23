@@ -19,23 +19,22 @@ Work experience
 ======
 * Spring 2014 - current: Graduate Research Assistant
   * Institute for Protein Design, University of Washington, Seattle, WA
-  * Research: Computational protein design of small-molecule fluorescent biosensors
+  * Research: Computational protein design of small-molecule fluorescent biosensors. Optimizing apixaban-binding proteins using computational modeling and directed evolution.
   * Supervisors: Drs. David Baker and James B. Hurley
   
 * Winter 2014 - Spring 2014: Graduate Research Assistant
   * Department of Biochemistry, University of Washington, Seattle, WA
-  * Research: Characterization of mammalian mitochondrial fission and fusion
+  * Research: Characterizing the functionally distinct domains of mammalian mitochondrial fusion proteins Mfn1/2.
   * Supervisor: Dr. Suzanne Hoppins
 
 * Autumn 2014 - Winter 2014: Graduate Research Assistant
   * Department of Biochemistry, University of Washington, Seattle, WA
-  * Research: Design of aspartate fluorescent biosensors for studying mammalian retina metabolism
+  * Research: Developing glutamate- and aspartate-sensing fluorescent reporters to probe photoreceptor metabolism.
   * Supervisor: Drs. James B. Hurley and Susan Brockerhoff
 
 * Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
   * National Institues of Health, Bethesda, MD
-  * Research: Transformation of mammalian mitochondrial DNA for stuyding structure-function relationships
-  * Research: Characterizing a temperature-sensitive mitochondrial DNA mutant D. melanogaster model
+  * Research: Developing a methodology to genetically transform mammalian mitochondria for studying structure-function relationships. Characterizing a temperature-sensitive mitochondrial DNA mutant D. melanogaster model. Testing a novel hypothesis for synthesizing photoactive mitochondria.
   * Supervisor: Dr. Hong Xu
   
 * Summer 2010 - Autumn 2010: Laboratory Assistant
