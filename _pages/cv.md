@@ -66,7 +66,24 @@ Work experience
   * Veterans Medical Research Foundation, La Jolla, CA
   * Research: Gaining experience with Coulter counting, gel electrophoresis, glucose assays, and western blot development using radiolabeled peptides, performing radiation tests, and making buffers.
   * Supervisor: Drs. Susan Phillips and Theodore P. Ciaraldi
-  
+
+
+Awards and Honors
+======
+* National Science Foundation Graduate Research Fellowship Program, 2014 - current
+* National Institues of Health Post-baccalaureate IRTA Fellowship, 2011 - 2013
+* Merck and Company Index Award, 2011
+* Phi Lambda Upsilon Award, National Honorary Chemical Society, 2011
+* Burnham Scholarship for Engineering and Applied Sciences, 2007 - 2012
+* Summer Institute of Mathematics and Science (SIMS) Program, 2007
+* Excellence in Physics Award, SIMS, 2007
+* Member of Golden Key International Honour Society, 2016 - current
+* Member of UW Nanotechnology & Molecular Engineering Student Association, 2013 - current
+* Member of UCSB Chemistry Club, 2009 - 2011
+* Member of NIH Mitochondrial Interest Group, Genetics Interest Group, and RNA Club, 2012 - 2013
+* Member of the National Society of Collegiate Scholars, 2008 - current
+* Member of the National Society of High School Scholars, 2006 - current
+
 Skills (Under Construction!)
 ======
 * Skill 1
