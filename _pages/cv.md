@@ -85,7 +85,7 @@ Awards and Honors
 * Member of the National Society of Collegiate Scholars, 2008 - current
 * Member of the National Society of High School Scholars, 2006 - current
 
-Skills (Under Construction!)
+Skills
 ======
 * Computer Programming Languages
   * Python
@@ -132,10 +132,11 @@ Skills (Under Construction!)
     * Microbiology
     * Gel Electrophoresis
 
-* Other Research Skills
+* Additional Research Skills
   * Scientific Writing
   * Data Analysis
   * Assay Development
+  * Scientific Collaboration
 
 
 Publications
