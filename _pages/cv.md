@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Chemistry and Biochemistry, College of Creative Studies, University of California, Santa Barbara, 2011
   * Minor in Music, College of Letters and Sciences, University of California, Santa Barbara, 2011
-* Ph.D. in Biochemistry & Nanotechnology and Molecular Engineering, University of Washington, Seattle, 2019 (expected)
+* Ph.D. in Biochemistry & Nanotechnology and Molecular Engineering (Dual Degree), University of Washington, Seattle, 2019 (expected)
 
 Work experience
 ======
@@ -30,7 +30,7 @@ Work experience
 * Autumn 2014 - Winter 2014: Graduate Research Assistant
   * Department of Biochemistry, University of Washington, Seattle, WA
   * Research: Developing glutamate- and aspartate-sensing fluorescent reporters to probe photoreceptor metabolism.
-  * Supervisor: Drs. James B. Hurley and Susan Brockerhoff
+  * Supervisors: Drs. James B. Hurley and Susan Brockerhoff
 
 * Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
   * National Institues of Health, Bethesda, MD
@@ -65,7 +65,7 @@ Work experience
 * Autumn 2008 - Winter 2008: Laboratory Assistant, Muscle Tissue Core
   * Veterans Medical Research Foundation, La Jolla, CA
   * Research: Gaining experience with Coulter counting, gel electrophoresis, glucose assays, and western blot development using radiolabeled peptides, performing radiation tests, and making buffers.
-  * Supervisor: Drs. Susan Phillips and Theodore P. Ciaraldi
+  * Supervisors: Drs. Susan Phillips and Theodore P. Ciaraldi
 
 
 Awards and Honors
@@ -78,20 +78,100 @@ Awards and Honors
 * Summer Institute of Mathematics and Science (SIMS) Program, 2007
 * Excellence in Physics Award, SIMS, 2007
 * Member of Golden Key International Honour Society, 2016 - current
-* Member of UW Nanotechnology & Molecular Engineering Student Association, 2013 - current
-* Member of UCSB Chemistry Club, 2009 - 2011
+* Member of the Rosetta Commons, 2014 - current
+* Member of University of Washington Nanotechnology & Molecular Engineering Student Association, 2013 - current
+* Member of University of California, Santa Barbara Chemistry Club, 2009 - 2011
 * Member of NIH Mitochondrial Interest Group, Genetics Interest Group, and RNA Club, 2012 - 2013
 * Member of the National Society of Collegiate Scholars, 2008 - current
 * Member of the National Society of High School Scholars, 2006 - current
 
 Skills (Under Construction!)
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Programming Languages
+  * Python
+  * XML
+  * JSON
+  * Bash
+  * HTML
+  
+* Research Fields of Expertise
+  * Biochemistry
+  * Nanotechnology
+  * Molecular Engineering
+  * Protein Design
+    * Rosetta
+  * Protein Engineering
+  * Molecular Genetics
+
+* Western Blotting
+* Molecular Cloning
+* PCR
+* Confocal Microscopy
+* Genetics
+* Microscopy
+* Fluorescence Microscopy
+* Lifesciences
+* Protein Expression
+* Protein Purification
+* Immunohistochemistry
+* Flow Cytometry
+
+* Cell
+
+
+* Protein Chemistry
+* Real-Time Polymerase Chain Reaction (qPCR)
+* Microbiology
+* Scientific Writing
+
+* Research
+
+* Data Analysis
+
+* Tissue Culture
+
+* Gel Electrophoresis
+
+* Assay Development
+
+
+
+
+
+
+* PyMOL
+
+
+
+* Protein Characterization
+
+* Fluorescence Spectroscopy
+
+* Protein Assays
+
+* Protein Structure
+
+* Structural Biology
+
+
+
+* Transfection
+
+* Biosensors
+
+* Fluorescence Anisotropy
+
+* Protein Structure Prediction
+
+* Protein-protein Interactions
+
+* Small Molecules
+
+* Stability Studies
+
+* Fluorescence
+
+
 
 Publications (Under Construction!)
 ======
