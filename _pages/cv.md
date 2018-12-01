@@ -139,7 +139,7 @@ Skills
   * Scientific Collaboration
 
 
-Publications
+Publications (Under Construction!)
 ======
 * Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz, 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
  
