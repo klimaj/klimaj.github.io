@@ -93,94 +93,62 @@ Skills (Under Construction!)
   * JSON
   * Bash
   * HTML
+  * PyMOL
   
 * Research Fields of Expertise
   * Biochemistry
+    * Western Blotting
+    * Recombinant Protein Expression
+    * Protein Purification
+    * Tissue Culture
+    * Transfection
   * Nanotechnology
+    * Fluorescence Spectroscopy
+    * Fluorescence Anisotropy
   * Molecular Engineering
-  * Protein Design
     * Rosetta
+    * Protein Structure Prediction
+    * Protein-protein Interactions
+    * Protein-ligand Interactions
+    * Small Molecule Binder Design
+  * Microscopy
+    * Confocal Microscopy
+    * Fluorescence Microscopy
+    * Epi-fluorescence Microscopy
+    * Light Microscopy
   * Protein Engineering
+    * Biosensors
+    * Flow Cytometry
+    * Protein Chemistry
+    * Protein Characterization
+    * Protein Assays
+    * Structural Biology
+    * Stability Studies
   * Molecular Genetics
+    * Polymerase Chain Reaction (PCR)
+    * Real-Time PCR (qPCR)
+    * Molecular Cloning
+    * Genetics
+    * Microbiology
+    * Gel Electrophoresis
 
-* Western Blotting
-* Molecular Cloning
-* PCR
-* Confocal Microscopy
-* Genetics
-* Microscopy
-* Fluorescence Microscopy
-* Lifesciences
-* Protein Expression
-* Protein Purification
-* Immunohistochemistry
-* Flow Cytometry
-
-* Cell
+* Other Research Skills
+  * Scientific Writing
+  * Data Analysis
+  * Assay Development
 
 
-* Protein Chemistry
-* Real-Time Polymerase Chain Reaction (qPCR)
-* Microbiology
-* Scientific Writing
-
-* Research
-
-* Data Analysis
-
-* Tissue Culture
-
-* Gel Electrophoresis
-
-* Assay Development
-
-
-
-
-
-
-* PyMOL
-
-
-
-* Protein Characterization
-
-* Fluorescence Spectroscopy
-
-* Protein Assays
-
-* Protein Structure
-
-* Structural Biology
-
-
-
-* Transfection
-
-* Biosensors
-
-* Fluorescence Anisotropy
-
-* Protein Structure Prediction
-
-* Protein-protein Interactions
-
-* Small Molecules
-
-* Stability Studies
-
-* Fluorescence
-
-
-
-Publications (Under Construction!)
+Publications
 ======
-*  Jin, K., <b>Klima, J. C.</b>, Deane, G., Dale Stokes, M., Latz, M. I., 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate Lingulodinium polyedrum: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
+* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz, 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
  
+* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, <b>Jason C. Klima</b>, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (in review).
+
   <ul>
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
   
 Talks (Under Construction!)
 ======
