@@ -136,7 +136,6 @@ Skills
   * Scientific Writing
   * Data Analysis
   * Assay Development
-  * Scientific Collaboration
 
 
 Publications (Under Construction!)
