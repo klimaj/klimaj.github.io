@@ -136,6 +136,7 @@ Skills
   * Scientific Writing
   * Data Analysis
   * Assay Development
+  * High-performance Computing
 
 
 Publications (Under Construction!)
