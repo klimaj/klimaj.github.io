@@ -143,16 +143,23 @@ Publications (Under Construction!)
 ======
 * Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz, 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
  
-* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, <b>Jason C. Klima</b>, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (in review).
+* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (in review).
 
+* Jason C. Klima et al., 2019, De novo design of brighter, pH-responsive, and Ca2+-responsive mini fluorescence-activating proteins (in preparation).
+
+
+  
+  
+  
+  
+
+Talks (Under Construction!)
+======
   <ul>
   {% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-  
-Talks (Under Construction!)
-======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
