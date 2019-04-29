@@ -70,8 +70,8 @@ Work experience
 
 Awards and Honors
 ======
-* National Science Foundation Graduate Research Fellowship Program, 2014 - current
-* National Institues of Health Post-baccalaureate IRTA Fellowship, 2011 - 2013
+* National Science Foundation Graduate Research Fellowship Program, 2014 - 2019
+* National Institutes of Health Post-baccalaureate Intramural Research Training Award (IRTA) Fellowship, 2011 - 2013
 * Merck and Company Index Award, 2011
 * Phi Lambda Upsilon Award, National Honorary Chemical Society, 2011
 * Burnham Scholarship for Engineering and Applied Sciences, 2007 - 2012
@@ -174,4 +174,3 @@ Talks (Under Construction!)
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> 
- 
