@@ -32,7 +32,7 @@ Work experience
   * Research: Developing glutamate- and aspartate-sensing fluorescent reporters to probe photoreceptor metabolism.
   * Supervisors: Drs. James B. Hurley and Susan Brockerhoff
 
-* Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
+* Autumn 2011 - Summer 2013: Post-baccalaureate Intramural Research Training Award (IRTA) Fellow
   * National Institutes of Health, Bethesda, MD
   * Research: Developing a methodology to genetically transform mammalian mitochondria for studying structure-function relationships. Characterizing a temperature-sensitive mitochondrial DNA mutant D. melanogaster model. Testing a novel hypothesis for synthesizing photoactive mitochondria.
   * Supervisor: Dr. Hong Xu
