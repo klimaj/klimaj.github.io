@@ -33,7 +33,7 @@ Work experience
   * Supervisors: Drs. James B. Hurley and Susan Brockerhoff
 
 * Autumn 2011 - Summer 2013: Post-baccalaurate Intramural Research Training Award (IRTA) Fellow
-  * National Institues of Health, Bethesda, MD
+  * National Institutes of Health, Bethesda, MD
   * Research: Developing a methodology to genetically transform mammalian mitochondria for studying structure-function relationships. Characterizing a temperature-sensitive mitochondrial DNA mutant D. melanogaster model. Testing a novel hypothesis for synthesizing photoactive mitochondria.
   * Supervisor: Dr. Hong Xu
   
@@ -143,15 +143,27 @@ Publications
 ======
 * Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz, 2013, Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. Journal of Phycology, 49: 733–745.
  
-* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (in review).
+* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (manuscript accepted).
 
 * <b>Jason C. Klima</b> <i>et al.</i>, 2019, Nature Methods (in preparation).
+  
 
+Teaching
+======
+* Instructor at PyRosetta Bootcamp, 2019, Institute for Protein Design, University of Washington
+* Instructor at PyRosetta Code School, 2019, Rosetta Commons, Johns Hopkins University
+* Teacher’s Assistant for Biochemistry 405: Autumn Quarter 2015, University of Washington
+* Teacher’s Assistant for Biochemistry 441: Winter Quarter 2015, University of Washington
+* Teacher’s Assistant for Biochemistry 440: Autumn Quarter 2014, University of Washington
 
-  
-  
-  
-  
+ 
+Service and leadership (Under Construction!)
+======
+* Seattle Science Center Life Sciences Research Weekend at the UW Center for Game Science booth: 2014, 2015, 2016, 2017, 2018.
+  * At this event, I taught children and their parents how protein engineers discover cures to treat diseases, and explain how nanotechnology research at the University of Washington is advancing disease treatment options. Participating in this outreach program allowed me to translate my technical experience into casual language that boosts my local community's comprehension of nanotechnological research while inspiring young adults into science, technology, engineering and mathematics (STEM) fields through interactive workshops.
+* University of Washington Engineering Discovery Days: 2014, 2015, 2016.
+  * Joint exhibit between Molecular Engineering and Sciences Institute and the Washington Nanofabrication Facility in which I and fellow UW students and faculty in engineering share our research with the local Seattle community, particularly with children in K-8 grades.
+
 
 Talks (Under Construction!)
 ======
@@ -162,14 +174,5 @@ Talks (Under Construction!)
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching (Under Construction!)
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership (Under Construction!)
-======
-* Currently signed in to 43 different slack teams
+  {% endfor %}</ul> 
+ 
