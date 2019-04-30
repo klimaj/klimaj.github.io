@@ -150,8 +150,8 @@ Publications
 
 Teaching
 ======
-* Instructor at PyRosetta Bootcamp, 2019, Institute for Protein Design, University of Washington
-* Instructor at PyRosetta Code School, 2019, Rosetta Commons, Johns Hopkins University
+* Instructor/organizer of PyRosetta Bootcamp, 2019, Institute for Protein Design, University of Washington
+* Invited Instructor of PyRosetta Code School, 2019, Rosetta Commons, Johns Hopkins University
 * Teacher’s Assistant for Biochemistry 405: Autumn Quarter 2015, University of Washington
 * Teacher’s Assistant for Biochemistry 441: Winter Quarter 2015, University of Washington
 * Teacher’s Assistant for Biochemistry 440: Autumn Quarter 2014, University of Washington
