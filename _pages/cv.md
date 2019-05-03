@@ -145,7 +145,7 @@ Publications
  
 * Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational switches. Science (manuscript accepted).
 
-* <b>Jason C. Klima</b> <i>et al.</i>, 2019, Nature Methods (in preparation).
+* <b>Jason C. Klima</b> <i>et al.</i> 2019. mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering. Nature Methods (manuscript submitted).
   
 
 Teaching
