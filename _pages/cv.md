@@ -16,7 +16,7 @@ Education
   * Minor in Music, College of Letters and Sciences, University of California, Santa Barbara, 2011
 
 
-Work experience
+Work Experience
 ======
 * Summer 2019 - current: <b>Senior Fellow</b>
   * Institute for Protein Design, University of Washington, Seattle, WA
@@ -163,7 +163,7 @@ Teaching
 * Teacher’s Assistant for Biochemistry 440: Autumn Quarter 2014, University of Washington
 
  
-Service and leadership
+Service and Leadership
 ======
 * Pacific Science Center Life Sciences Research Weekend: 2014, 2015, 2016, 2017, 2018.
   * At the University of Washington Center for Game Science booth, I taught children and their parents how protein engineers discover cures to treat diseases, and explain how nanotechnology research at the University of Washington is advancing disease treatment options. Participating in this outreach program allowed me to translate my technical experience into casual language that boosts my local community's comprehension of nanotechnological research while inspiring young adults into science, technology, engineering and mathematics (STEM) fields through interactive workshops.
