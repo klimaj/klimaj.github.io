@@ -85,7 +85,7 @@ Awards and Honors
 * Excellence in Physics Award, SIMS, 2007
 * Member of Golden Key International Honour Society, 2016 - current
 * Member of the Rosetta Commons, 2014 - current
-* Member of University of Washington Nanotechnology & Molecular Engineering Student Association, 2013 - current
+* Member of University of Washington Nanotechnology & Molecular Engineering Student Association, 2013 - 2019
 * Member of University of California, Santa Barbara Chemistry Club, 2009 - 2011
 * Member of NIH Mitochondrial Interest Group, Genetics Interest Group, and RNA Club, 2012 - 2013
 * Member of the National Society of Collegiate Scholars, 2008 - current
