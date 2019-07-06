@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal GitHub webpage! I look forward to collaborating with you. Please feel free to contact me with your scientific and computational inquiries.
+Welcome to my personal GitHub webpage! Please feel free to contact me with your scientific inquiries. I look forward to collaborating.
 
 Best regards,
+
 Jason
