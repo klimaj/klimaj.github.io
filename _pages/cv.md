@@ -77,12 +77,14 @@ Work Experience
 Awards and Honors
 ======
 * National Science Foundation Graduate Research Fellowship Program, 2014 - 2019
+* Urdal Fellowship, University of Washington Department of Biochemistry, 2015
 * National Institutes of Health Post-baccalaureate Intramural Research Training Award (IRTA) Fellowship, 2011 - 2013
 * Merck and Company Index Award, 2011
 * Phi Lambda Upsilon Award, National Honorary Chemical Society, 2011
 * Burnham Scholarship for Engineering and Applied Sciences, 2007 - 2012
 * Summer Institute of Mathematics and Science (SIMS) Program, 2007
 * Excellence in Physics Award, SIMS, 2007
+* Member of the Society for Collegiate Leadership & Achievement, 2019 - current
 * Member of Golden Key International Honour Society, 2016 - current
 * Member of the Rosetta Commons, 2014 - current
 * Member of University of Washington Nanotechnology & Molecular Engineering Student Association, 2013 - 2019
@@ -100,6 +102,7 @@ Skills
   * Bash
   * HTML
   * PyMOL
+  * MMTF
   
 * Research Fields of Expertise
   * Biochemistry
@@ -151,12 +154,12 @@ Publications
  
 * Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational changes. 2019. Science. 364(6441): 658-664.
 
-* <b>Jason C. Klima</b> <i>et al</i>. mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering. 2019. Nature Chemical Biology (manuscript in review).
+* <b>Jason C. Klima</b> <i>et al</i>. mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering. 2019 (manuscript in review).
   
 
 Teaching
 ======
-* Instructor/Organizer of PyRosetta Bootcamp, 2019, Institute for Protein Design, University of Washington
+* Instructor of PyRosetta Bootcamp, 2019, Institute for Protein Design, University of Washington
 * Instructor of PyRosetta Code School, 2019, Rosetta Commons, Johns Hopkins University
 * Teacher’s Assistant for Biochemistry 405: Autumn Quarter 2015, University of Washington
 * Teacher’s Assistant for Biochemistry 441: Winter Quarter 2015, University of Washington
