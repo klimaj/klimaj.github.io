@@ -20,7 +20,7 @@ Work Experience
 ======
 * Summer 2019 - current: <b>Senior Fellow</b>
   * Institute for Protein Design, University of Washington, Seattle, WA
-  * Research: Computational protein design of fluorescent biosensors for super-resolution microscopy applications.
+  * Research: Computational protein design of <i>de novo</i> fluorescent biosensors for super-resolution microscopy applications.
   * Supervisors: Dr. David Baker
 
 * Spring 2014 - Spring 2019: <b>Graduate Research Assistant</b>
