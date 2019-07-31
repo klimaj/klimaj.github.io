@@ -84,7 +84,6 @@ Awards and Honors
 * Burnham Scholarship for Engineering and Applied Sciences, 2007 - 2012
 * Summer Institute of Mathematics and Science (SIMS) Program, 2007
 * Excellence in Physics Award, SIMS, 2007
-* Member of the Society for Collegiate Leadership & Achievement, 2019 - current
 * Member of Golden Key International Honour Society, 2016 - current
 * Member of the Rosetta Commons, 2014 - current
 * Member of University of Washington Nanotechnology & Molecular Engineering Student Association, 2013 - 2019
