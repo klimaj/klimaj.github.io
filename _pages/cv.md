@@ -23,7 +23,7 @@ Work Experience
   * Research: High-throughput computational protein design, modeling, and structure prediction using Rosetta/PyRosetta software with Amazon Web Services (AWS) elastic compute cloud. Developed a python package for reproducible computational protein design.
   * Supervisors: Drs. Scott E. Boyken, Marc J. LaJoie, and Brian D. Weitzner
 
-* Summer 2019 - current: <b>Senior Fellow</b>
+* June 2019 - November 2019: <b>Senior Fellow</b>
   * Institute for Protein Design, University of Washington, Seattle, WA
   * Research: Computational protein design of <i>de novo</i> fluorescent biosensors for super-resolution microscopy applications.
   * Supervisors: Dr. David Baker
