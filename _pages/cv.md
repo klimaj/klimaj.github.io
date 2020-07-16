@@ -156,7 +156,7 @@ Skills
 Publications
 ======
 
-* <b>Jason C. Klima</b>, <i>et al</i>. Incorporation of Sensing Modalities Into De Novo Designed Fluorescence-activating Proteins. 2020 (manuscript in review).
+* <b>Jason C. Klima</b>, <i>et al</i>. Incorporation of Sensing Modalities Into <i>De Novo</i> Designed Fluorescence-activating Proteins. 2020 (manuscript in review).
   
 * Le, K.; Adolf-Bryfogle, J.; <b>Jason C. Klima</b>; Lyskov, S.; Labonte, J.; Bertolani, S.; Roy Burman, S.; Leaver-Fay, A.; Weitzner, B.; Maguire, J.; Rangan, R.; Adrianowycz, M.; Alford, R.; Adal, A.; Nance, M.; Das, R.; Dunbrack, R.; Schief, W.; Kuhlman, B.; Siegel, J.; Gray, J. PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design. Preprints 2020, 2020020097 (doi: 10.20944/preprints202002.0097.v1).
 
