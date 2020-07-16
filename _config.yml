@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason C. Klima"
+  name             : "Jason C. Klima, Ph.D."
   avatar           : "Klima-20150327-073_6136-1024x982-1024x982.jpg"
-  bio              : "Ph.D. in Biochemistry and Nanotechnology & Molecular Engineering"
+  bio              : "Biochemistry and Nanotechnology & Molecular Engineering"
   location         : "Seattle, WA"
-  employer         : "University of Washington"
+  employer         : # "University of Washington"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "klimaj@uw.edu"
+  email            : "klima.jason@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jason-klima-59752343"
+  linkedin         : "hhttps://www.linkedin.com/in/jason-c-klima-phd-59752343/"
   orcid            : "https://orcid.org/0000-0003-0387-7847"
   pinterest        :
   soundcloud       :
