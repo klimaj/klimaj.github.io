@@ -18,6 +18,11 @@ Education
 
 Work Experience
 ======
+* November 2019 – July 2020: <b>Scientist I, Protein and Cell Engineering</b>
+  * Lyell Immunopharma, Inc., Seattle, WA
+  * Research: High-throughput computational protein design, modeling, and structure prediction using Rosetta/PyRosetta software with Amazon Web Services (AWS) elastic compute cloud. Developed a python package for reproducible computational protein design.
+  * Supervisors: Drs. Scott E. Boyken, Marc J. LaJoie, and Brian D. Weitzner
+
 * Summer 2019 - current: <b>Senior Fellow</b>
   * Institute for Protein Design, University of Washington, Seattle, WA
   * Research: Computational protein design of <i>de novo</i> fluorescent biosensors for super-resolution microscopy applications.
@@ -33,7 +38,7 @@ Work Experience
   * Research: Characterizing the functionally distinct domains of mammalian mitochondrial fusion proteins Mfn1/2.
   * Supervisor: Dr. Suzanne Hoppins
 
-* Autumn 2014 - Winter 2014: <b>Graduate Research Assistant</b>
+* Autumn 2013 - Winter 2013: <b>Graduate Research Assistant</b>
   * Department of Biochemistry, University of Washington, Seattle, WA
   * Research: Developing glutamate- and aspartate-sensing fluorescent reporters to probe photoreceptor metabolism.
   * Supervisors: Drs. James B. Hurley and Susan Brockerhoff
@@ -101,6 +106,7 @@ Skills
   * Bash
   * HTML
   * PyMOL
+  * py3Dmol
   * MMTF
   
 * Research Fields of Expertise
@@ -142,19 +148,23 @@ Skills
 
 * Additional Research Skills
   * Scientific Writing
-  * Data Analysis
+  * High-content Data Analysis
   * Assay Development
   * High-performance Computing
 
 
 Publications
 ======
-* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. 2013. Journal of Phycology, 49: 733–745.
- 
+
+* <b>Jason C. Klima</b> <i>et al</i>. Incorporation of Sensing Modalities Into De Novo Designed Fluorescence-activating Proteins. 2020 (manuscript in review).
+  
+* Le, K.; Adolf-Bryfogle, J.; <b>Jason C. Klima</b>; Lyskov, S.; Labonte, J.; Bertolani, S.; Roy Burman, S.; Leaver-Fay, A.; Weitzner, B.; Maguire, J.; Rangan, R.; Adrianowycz, M.; Alford, R.; Adal, A.; Nance, M.; Das, R.; Dunbrack, R.; Schief, W.; Kuhlman, B.; Siegel, J.; Gray, J. PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design. Preprints 2020, 2020020097 (doi: 10.20944/preprints202002.0097.v1).
+
 * Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational changes. 2019. Science. 364(6441): 658-664.
 
-* <b>Jason C. Klima</b> <i>et al</i>. mFAPs: A Versatile Platform For New Fluorescent Protein Sensor Engineering. 2019 (manuscript in review).
-  
+* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. 2013. Journal of Phycology, 49: 733–745.
+ 
+
 
 Teaching
 ======
