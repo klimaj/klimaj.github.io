@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason C. Klima, Ph.D."
+title                    : "Jason C. Klima, PhD"
 title_separator          : "-"
-name                     : &name "Jason C. Klima, Ph.D."
+name                     : &name "Jason C. Klima, PhD"
 description              : &description "Biochemistry and Nanotechnology & Molecular Engineering"
 url                      : https://klimaj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jason C. Klima, Ph.D."
+  name             : "Jason C. Klima, PhD"
   avatar           : "Klima-20150327-073_6136-1024x982-1024x982.jpg"
   bio              : "Biochemistry and Nanotechnology & Molecular Engineering"
   location         : "Seattle, WA"
