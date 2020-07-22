@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jason C. Klima"
+title                    : "Jason C. Klima, Ph.D."
 title_separator          : "-"
 name                     : &name "Jason C. Klima, Ph.D."
 description              : &description "Biochemistry and Nanotechnology & Molecular Engineering"
@@ -99,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "hhttps://www.linkedin.com/in/jason-c-klima-phd-59752343/"
+  linkedin         : "jason-c-klima-phd-59752343/"
   orcid            : "https://orcid.org/0000-0003-0387-7847"
   pinterest        :
   soundcloud       :
