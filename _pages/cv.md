@@ -163,15 +163,21 @@ Skills
 Publications
 ======
 
-* <b>Jason C. Klima</b>, Lindsey A. Doyle, Justin Daho Lee, Michael Rappleye, Lauren A. Gagnon, Min Yen Lee, Emilia P. Barros, Anastassia A. Vorobieva, Jiayi Dou, Samantha Bremner, Jacob S. Quon, Cameron M. Chow, Lauren Carter, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, and David Baker. Incorporation of sensing modalities into de novo designed fluorescence-activating proteins. <i>Nature Communications</i>, <b>12</b>, 856 (2021). doi: 10.1038/s41467-020-18911-w
+* <b>Jason C. Klima</b>, Robert A. Langan, Amanda L. Loshbaugh, Harry M. Winters, Anish Kejariwal, Scott E. Boyken, and Brian D. Weitzner. PyRosettaCluster: A python application programming interface for reproducible macromolecular structure prediction and design. Manuscript in preparation (2021).
+
+* <b>Jason C. Klima</b>, Lindsey A. Doyle, Justin Daho Lee, Michael Rappleye, Lauren A. Gagnon, Min Yen Lee, Emilia P. Barros, Anastassia A. Vorobieva, Jiayi Dou, Samantha Bremner, Jacob S. Quon, Cameron M. Chow, Lauren Carter, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, and David Baker. Incorporation of sensing modalities into de novo designed fluorescence-activating proteins. <i>Nature Communications</i>, <b>12</b>, 856 (2021). doi: 10.1038/s41467-020-18911-w.
 
 * <b>Jason C. Klima</b>, Cameron M. Chow, Jiayi Dou, Anastassia A. Vorobieva, Lauren Carter, David Baker. Bacterial expression and protein purification of mini-fluorescence-activating proteins. <i>Protocol Exchange</i> (2021). doi: 10.21203/rs.3.pex-1077/v1.
 
-* Kathy H. Le, Jared Adolf-Bryfogle, <b>Jason C. Klima</b>, Sergey Lyskov, Jason Labonte, Steven Bertolani, Shourya S. Roy Burman, Andrew Leaver-Fay, Brian Weitzner, Jack Maguire, Ramya Rangan, Matt A. Adrianowycz, Rebecca F. Alford, Aleexsan Adal, Morgan L. Nance, Rhiju Das, Roland L. Dunbrack, Jr., William Schief, Brian Kuhlman, Justin B. Siegel, Jeffrey J. Gray. PyRosetta Jupyter Notebooks teach biomolecular structure prediction and design. <i>Preprints <b>2020</b></i>, 2020020097. doi: 10.20944/preprints202002.0097.v1.
+* Kathy H. Le, Jared Adolf-Bryfogle, <b>Jason C. Klima</b>, Sergey Lyskov, Jason Labonte, Steven Bertolani, Shourya S. Roy Burman, Andrew Leaver-Fay, Brian Weitzner, Jack Maguire, Ramya Rangan, Matt A. Adrianowycz, Rebecca F. Alford, Aleexsan Adal, Morgan L. Nance, Rhiju Das, Roland L. Dunbrack, Jr., William Schief, Brian Kuhlman, Justin B. Siegel, Jeffrey J. Gray. PyRosetta Jupyter Notebooks teach biomolecular structure prediction and design. <i>Preprints</i> <b>2020</b>, 2020020097. doi: 10.20944/preprints202002.0097.v1.
+
+* Julia Koehler Leman, Brian D. Weitzner, P. Douglas Renfrew, Steven M. Lewis, Rocco Moretti, Andrew M. Watkins, Vikram Khipple Mulligan, Sergey Lyskov, Jared Adolf-Bryfogle, Jason W. Labonte, Justyna Krys, <b>RosettaCommons Consortium</b>, Christopher Bystroff, William Schief, Dominik Gront, Ora Schueler-Furman, David Baker, Philip Bradley, Roland Dunbrack, Tanja Kortemme, Andrew Leaver-Fay, Charlie E. M. Strauss, Jens Meiler, Brian Kuhlman, Jeffrey J. Gray, and Richard Bonneau. Better together: Elements of successful scientific software development in a distributed collaborative community. <i>PLoS Computational Biology</i>, 16(5): e1007507 (2020). doi: 10.1371/journal.pcbi.1007507.
+
+* <b>Jason C. Klima</b>, David Baker & James Bryant Hurley. Design of de novo mini fluorescence activating proteins as pH and calcium biosensors. Thesis, Ph.D., University of Washington, Seattle (2019).
 
 * Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker. De novo design of tunable pH-driven conformational changes. <i>Science</i>, 364(6441):658-664 (2019). doi: 10.1126/science.aav7897. PMID: 31097662; PMCID: PMC7072037.
 
-* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. <i>Journal of Phycology</i>, 49: 733–745 (2013).
+* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. <i>Journal of Phycology</i>, 49: 733–745 (2013). doi: 10.1111/jpy.12084.
 
 
 Teaching
