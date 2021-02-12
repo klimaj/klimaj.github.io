@@ -163,8 +163,6 @@ Skills
 Publications
 ======
 
-* <b>Jason C. Klima</b>, Robert A. Langan, Amanda L. Loshbaugh, Harry M. Winters, Anish Kejariwal, Scott E. Boyken, and Brian D. Weitzner. PyRosettaCluster: A python application programming interface for reproducible macromolecular structure prediction and design. Manuscript in preparation (2021).
-
 * <b>Jason C. Klima</b>, Lindsey A. Doyle, Justin Daho Lee, Michael Rappleye, Lauren A. Gagnon, Min Yen Lee, Emilia P. Barros, Anastassia A. Vorobieva, Jiayi Dou, Samantha Bremner, Jacob S. Quon, Cameron M. Chow, Lauren Carter, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, and David Baker. Incorporation of sensing modalities into de novo designed fluorescence-activating proteins. <i>Nature Communications</i>, <b>12</b>, 856 (2021). doi: 10.1038/s41467-020-18911-w.
 
 * <b>Jason C. Klima</b>, Cameron M. Chow, Jiayi Dou, Anastassia A. Vorobieva, Lauren Carter, David Baker. Bacterial expression and protein purification of mini-fluorescence-activating proteins. <i>Protocol Exchange</i> (2021). doi: 10.21203/rs.3.pex-1077/v1.
