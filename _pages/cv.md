@@ -18,6 +18,11 @@ Education
 
 Work Experience
 ======
+* February 2021 – current: <b>Computational Chemist I, Bioinformatics</b>
+  * Encodia, Inc., San Diego, CA
+  * Research: High-throughput computational chemistry, protein design, structural biology, and bioinformatics.
+  * Supervisor: Dr. Devin Sullivan
+
 * November 2019 – July 2020: <b>Scientist I, Protein and Cell Engineering</b>
   * Lyell Immunopharma, Inc., Seattle, WA
   * Research: High-throughput computational protein design, modeling, and structure prediction using Rosetta/PyRosetta software with Amazon Web Services (AWS) elastic compute cloud. Developed a python package for reproducible computational protein design.
@@ -158,14 +163,15 @@ Skills
 Publications
 ======
 
-* <b>Jason C. Klima</b>, <i>et al</i>. Incorporation of Sensing Modalities Into <i>De Novo</i> Designed Fluorescence-activating Proteins. 2020 (manuscript accepted in Nature Communications).
-  
-* Le, K.; Adolf-Bryfogle, J.; <b>Jason C. Klima</b>; Lyskov, S.; Labonte, J.; Bertolani, S.; Roy Burman, S.; Leaver-Fay, A.; Weitzner, B.; Maguire, J.; Rangan, R.; Adrianowycz, M.; Alford, R.; Adal, A.; Nance, M.; Das, R.; Dunbrack, R.; Schief, W.; Kuhlman, B.; Siegel, J.; Gray, J. PyRosetta Jupyter Notebooks Teach Biomolecular Structure Prediction and Design. Preprints 2020, 2020020097 (doi: 10.20944/preprints202002.0097.v1).
+* <b>Jason C. Klima</b>, Lindsey A. Doyle, Justin Daho Lee, Michael Rappleye, Lauren A. Gagnon, Min Yen Lee, Emilia P. Barros, Anastassia A. Vorobieva, Jiayi Dou, Samantha Bremner, Jacob S. Quon, Cameron M. Chow, Lauren Carter, David L. Mack, Rommie E. Amaro, Joshua C. Vaughan, Andre Berndt, Barry L. Stoddard, and David Baker. Incorporation of sensing modalities into de novo designed fluorescence-activating proteins. <i>Nature Communications</i>, <b>12</b>, 856 (2021). doi: 10.1038/s41467-020-18911-w
 
-* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker, 2018, De novo design of tunable pH-driven conformational changes. 2019. Science. 364(6441): 658-664.
+* <b>Jason C. Klima</b>, Cameron M. Chow, Jiayi Dou, Anastassia A. Vorobieva, Lauren Carter, David Baker. Bacterial expression and protein purification of mini-fluorescence-activating proteins. <i>Protocol Exchange</i> (2021). doi: 10.21203/rs.3.pex-1077/v1.
 
-* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. 2013. Journal of Phycology, 49: 733–745.
- 
+* Kathy H. Le, Jared Adolf-Bryfogle, <b>Jason C. Klima</b>, Sergey Lyskov, Jason Labonte, Steven Bertolani, Shourya S. Roy Burman, Andrew Leaver-Fay, Brian Weitzner, Jack Maguire, Ramya Rangan, Matt A. Adrianowycz, Rebecca F. Alford, Aleexsan Adal, Morgan L. Nance, Rhiju Das, Roland L. Dunbrack, Jr., William Schief, Brian Kuhlman, Justin B. Siegel, Jeffrey J. Gray. PyRosetta Jupyter Notebooks teach biomolecular structure prediction and design. <i>Preprints <b>2020</b></i>, 2020020097. doi: 10.20944/preprints202002.0097.v1.
+
+* Scott E. Boyken, Mark A. Benhaim, Florian Busch, Mengxuan Jia, Matthew J. Bick, Heejun Choi, <b>Jason C. Klima</b>, Zibo Chen, Carl Walkey, Alexander Mileant, Aniruddha Sahasrabuddhe, Kathy Y. Wei, Edgar A. Hodge, Sarah Byron, Alfredo Quijano-Rubio, Banumathi Sankaran, Neil P. King, Jennifer Lippincott-Schwartz, Vicki H. Wysocki, Kelly K. Lee, David Baker. De novo design of tunable pH-driven conformational changes. <i>Science</i>, 364(6441):658-664 (2019). doi: 10.1126/science.aav7897. PMID: 31097662; PMCID: PMC7072037.
+
+* Kelly Jin, <b>Jason C. Klima</b>, Grant Deane, Malcolm Dale Stokes, Michael I. Latz. Pharmacological investigation of the bioluminescence signaling pathway of the dinoflagellate <i>Lingulodinium polyedrum</i>: evidence for the role of stretch-activated ion channels. <i>Journal of Phycology</i>, 49: 733–745 (2013).
 
 
 Teaching
